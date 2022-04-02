@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Wordpress Developer",
+        "organization": "Inkspann",
+        "liveUrl": "https://inkspann.wordpress.com/",
+        "duration": "November 2021 - January 2022",
+        "description": [
+            "Made a wordpress website for the organization with the help of team member.",
+            "Made regular updates on the availability of the products provided by the organization.",
+            "Available for the queries of 150+ students."
+        ],
+        "logo": "Inkspann"
+    },
+    {
+        "title": "Web Development Intern",
+        "organization": "Karostartup",
+        "liveUrl": "https://karostartup.com/",
+        "duration": "March 2021 - Current",
+        "description": [
+            "Developed a full stack web app for the organization which can handle requests for more than 200 users.",
+            "Built the backend using Node.js with Express server and modelled the database layer using MongoDB through mongoose wrapper.",
+            "Helped team mates in building the frontend using React.js"
+        ],
+        "logo": "Karostartup"
+    }
+]

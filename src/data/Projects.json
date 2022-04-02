@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Bloggers Tube",
+        "content": "A Web App which allows user to create and update blogs. A user can perform only CRUD i.e., Create Read Update and Delete operations on the blogs created by them after authenticating. User can also update their profile.",
+        "gitHubUrl": "https://github.com/JatinChawla2310/BloggersTube",
+        "liveUrl": null,
+        "techStack": ["React", "Node", "MongoDB"]
+    },
+    {
+        "title": "Dictionary Hub",
+        "content": "A Web app which allows user to use it as a virtual dictionary. Fetches data from a dictionary api. It can also give results in multiple languages.",
+        "gitHubUrl": "https://github.com/JatinChawla2310/dictionary-hub",
+        "liveUrl": "https://jatinchawla2310.github.io/dictionary-hub/",
+        "techStack": ["React", "HTML", "CSS"]
+    },
+    {
+        "title": "Weather Api",
+        "content": "A Web App which allows user to search for different weather conditions across India. Fetches data from a weather api.",
+        "gitHubUrl": "https://github.com/JatinChawla2310/WeatherApi",
+        "liveUrl": null,
+        "techStack": ["Express", "HBS", "CSS"]
+    },
+    {
+        "title": "Project Cherish",
+        "content": "A Web App which allows a user to donate things for the people in need. It have direct links with NGO and helps the user to donate things easily and efficiently. Have pickup guys who will collect donation boxes from house on dates requested by the user. Its an ongoing project which I represented with my team in Imagine Cup 2022.",
+        "gitHubUrl": null,
+        "liveUrl": null,
+        "techStack": ["React", "Node", "MongoDB"]
+    },
+    {
+        "title": "IOT Based Security Door Lock System",
+        "content": "An Iot based software in which a user can open or close the door lock by their mobile device.",
+        "gitHubUrl": null,
+        "liveUrl": null,
+        "techStack": ["IOT"]
+    },
+    {
+        "title": "Fithub",
+        "content": "An android app in which a user can scan edible objects and get its respective calorie count. In this app user can also have its own diet chart.",
+        "gitHubUrl": null,
+        "liveUrl": null,
+        "techStack": ["React","MongoDB"]
+    }
+]
